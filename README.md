@@ -1,5 +1,4 @@
-# RSA Factoring Challenge :cat:
-
+# RSA Factoring Challenge
 
 ## Description of what each file shows:
 * factors - the program to factorize (Usage: time ./factors tests/test00)
